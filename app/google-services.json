@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492528890188",
+    "firebase_url": "https://lokasipasien-d02da.firebaseio.com",
+    "project_id": "lokasipasien-d02da",
+    "storage_bucket": "lokasipasien-d02da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492528890188:android:478314f74dc72e841ddfe9",
+        "android_client_info": {
+          "package_name": "com.example.lokasipasien"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492528890188-ljki2h7mej2qi9ffl31hvs0ud4qdpb86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lokasipasien",
+            "certificate_hash": "61925142cdc26f35111a124336e6519886d999b7"
+          }
+        },
+        {
+          "client_id": "492528890188-hgvoi58kplg0omrtiv6h58t9oi87018c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rtrcwgtOKV7_axkWxC6o-uZniLHEIAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492528890188-hgvoi58kplg0omrtiv6h58t9oi87018c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

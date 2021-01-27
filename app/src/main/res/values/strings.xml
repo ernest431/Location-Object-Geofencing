@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lokasi Pasien</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoiYXJ0aHVycnIiLCJhIjoiY2s3aXNna2F0MG9tYzNybzkwMjI3aDBxZSJ9.T0Ovsp5LBJVymtTJIMRVzg</string>
+    <string name="user_location_permission_explanation" />
+    <string name="user_location_permission_not_granted" />
+    <string name="new_location"> Lokasi Baru </string>
+
+</resources>
